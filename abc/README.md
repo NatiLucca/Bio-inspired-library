@@ -20,7 +20,9 @@ Para a execução paralela é obrigatório o uso de  "-fopenmp", para as demais 
 ## Variáveis
 
 dim: (int) valor inteiro que corresponde a dimensão do enxame.
+
 colony: (int) valor inteiro que corresponde ao número de agentes da população.
+
 lim: (int) valor inteiro que corresponde ao limite de tentativas de melhor uma solução.
 sn: (int) valor inteiro que corresponde ao número de fontes de alimento.
 stepsMax: (int) valor inteiro que corresponde ao número máximo de iterações do algoritmo.
