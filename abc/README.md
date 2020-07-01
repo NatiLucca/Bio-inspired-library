@@ -24,10 +24,15 @@ dim: (int) valor inteiro que corresponde a dimensão do enxame.
 colony: (int) valor inteiro que corresponde ao número de agentes da população.
 
 lim: (int) valor inteiro que corresponde ao limite de tentativas de melhor uma solução.
+
 sn: (int) valor inteiro que corresponde ao número de fontes de alimento.
+
 stepsMax: (int) valor inteiro que corresponde ao número máximo de iterações do algoritmo.
+
 dMin: (double) valor decimal que corresponde ao limite inferior do espaço de busca.
+
 dMax: (double) valor decimal que corresponde ao limite superior do espaço de busca.
+
 typeF: (string) campo de texto [min|max] que corresponde a função de minimização (min) ou maximização (max).
 
 ## Variáveis: Construtor ABC()
